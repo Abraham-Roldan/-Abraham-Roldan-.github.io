@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "freelancer-theme-jekyll"
+  spec.name                    = "rewsame-theme-jekyll"
   spec.version                 = "1.0.1"
   spec.authors                 = ["Start Bootstrap"]
 
